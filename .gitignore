@@ -22,5 +22,10 @@
 /frontend/*.njsproj
 /frontend/*.sln
 /frontend/*.sw?
-.env
+/frontend/public/rebecca
+
+# Backend directories and files
 /backend/.venv
+
+# All directories and files
+.env
